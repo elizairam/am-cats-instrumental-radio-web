@@ -1,4 +1,4 @@
-# fm-cats-instrumental-radio-web
+# fm-cat-instrumental-radio-web
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
